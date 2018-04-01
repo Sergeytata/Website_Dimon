@@ -1,2 +1,2 @@
 # Website_Dimon
-Website for Dimkus Mamkus
+Website for Dimon's mother
